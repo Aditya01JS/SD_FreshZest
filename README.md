@@ -8,9 +8,9 @@ Forum App, with a frontend built in React & Redux and a backend built in Django 
 
 **This App uses a Replit free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO]
+Check out [FRONTEND LIVE DEMO] : https://sdfrontend.adityajanardan.repl.co/
 
-Check out [API LIVE DEMO]
+Check out [API LIVE DEMO] :  https://sdbackend.adityajanardan.repl.co/
 
 ## Tech used
 
