@@ -10,7 +10,7 @@ Forum App, with a frontend built in React & Redux and a backend built in Django 
 
 Check out [FRONTEND LIVE DEMO] : https://sdfrontend.adityajanardan.repl.co/
 
-Check out [API LIVE DEMO] :  https://sdbackend.adityajanardan.repl.co/
+Check out [BACKEND LIVE DEMO] :  https://sdbackend.adityajanardan.repl.co/
 
 ## Tech used
 
